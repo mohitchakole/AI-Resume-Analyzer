@@ -1,0 +1,6 @@
+streamlit
+
+#OpenAI or Gemini, if you use their API keys.
+python-dotenv
+pypdf
+python-docx
